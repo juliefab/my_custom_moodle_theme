@@ -1,0 +1,1 @@
+these go in the top level pix directory NOT the theme pix directory. 
